@@ -21,8 +21,7 @@ In the initial data preparation phase, we performed the following tasks:
 2. Remove duplicates 
 3. Data cleaning and formatting
 
-
-[HSE_Projet .....pdf](https://github.com/user-attachments/files/21419265/HSE_Projet.pdf)
+![1753394854853](https://github.com/user-attachments/assets/5eb3c036-d2ed-4490-a3a0-cc9f186e024b)
 
 ### HSE Data Analysis
 
