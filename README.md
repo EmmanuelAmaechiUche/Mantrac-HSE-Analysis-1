@@ -21,6 +21,9 @@ In the initial data preparation phase, we performed the following tasks:
 2. Remove duplicates 
 3. Data cleaning and formatting
 
+
+[HSE_Projet .....pdf](https://github.com/user-attachments/files/21419265/HSE_Projet.pdf)
+
 ### HSE Data Analysis
 
 HSE Data Analysis Involved HSE Risk and Incident Report, such as:
